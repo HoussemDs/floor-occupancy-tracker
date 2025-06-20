@@ -6,7 +6,6 @@ A computer vision system using YOLOv8 and SORT tracking to count people entering
 
 ![Header](floor-occupancy-tracker.png)
 
-> 📌 _Note: Make sure the image filename has no spaces (rename to `floor-occupancy-tracker.png`) to avoid rendering issues on GitHub._
 
 ---
 
@@ -90,7 +89,7 @@ See `requirement.txt`. Key packages include:
 
 ## 💡 Credits
 
-Made by **Alex** — built with YOLO, Python, and a lot of solo coffee-fueled study ☕.
+Made by **houssem** — built with YOLO, Python, and a lot of solo coffee-fueled study ☕.
 
 ---
 
